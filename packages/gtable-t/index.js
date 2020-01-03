@@ -1,3 +1,4 @@
 export default {
-  name:'gtable'
+  name:'gtable',
+  info:'111'
 }
